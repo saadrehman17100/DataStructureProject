@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\AdvanceNotepadSystem\Project1\Project1\main.cpp(39,14): warning C4101: 'keypress': unreferenced local variable
+D:\AdvanceNotepadSystem\Project1\Project1\main.cpp(350,43): warning C4018: '<=': signed/unsigned mismatch
+  TrieTree.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\AdvanceNotepadSystem\Project1\Debug\Project1.exe
